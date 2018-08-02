@@ -1,4 +1,4 @@
-# Module 3 Code Challenge
+# Module 3 Project Mode
 
 ![Example](assets/code-challenge-3.gif)
 
