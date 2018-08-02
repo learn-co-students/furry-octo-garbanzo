@@ -16,7 +16,7 @@ You will be building out an application that allows a user to purchase movie tic
 
 ### The API
 
-The backend for this challenge can be found at `https://evening-plateau-54365.herokuapp.com/`
+The backend for this project can be found at `https://evening-plateau-54365.herokuapp.com/`
 
 There are two API endpoints you will use, one to fetch all of the data associated with your assigned theatre and the other to create tickets in the database.
 
